@@ -4,7 +4,7 @@
 *  [Slides](https://github.com/arturjordao/Machine-Learning/blob/main/Slides/Basics.pdf)
 *  [Exercises (in portuguese)](https://github.com/arturjordao/Machine-Learning/blob/main/Problem%20Sets/Elementos%20B%C3%A1sicos%20de%20Aprendizado%20de%20M%C3%A1quina.pdf)
 
-## LeastSquares, Logistic and Nearest Neighbors
+## Least Squares, Logistic and Nearest Neighbors
 *  [Slides](https://github.com/arturjordao/Machine-Learning/blob/main/Slides/Linear%20Regression%2C%20Logistic%20Regression%20and%20Nearest%20Neighbors.pdf)
 *  [Exercises (in portuguese)](https://github.com/arturjordao/Machine-Learning/blob/main/Problem%20Sets/Regress%C3%A3o%20Linear%20e%20Vizinhos%20Mais%20Pr%C3%B3ximos.pdf)
 
