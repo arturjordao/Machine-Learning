@@ -29,7 +29,7 @@
 * [Exercises (in portuguese)](https://github.com/arturjordao/Machine-Learning/blob/main/Problem%20Sets/Redu%C3%A7%C3%A3o%20de%20Dimensionalidade.pdf)
 
 ## Clustering
-* Coming soon
+* [Slides](https://github.com/arturjordao/Machine-Learning/blob/main/Slides/Clustering.pdf)
 
 ## Feature Selection
 * Coming soon
