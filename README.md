@@ -32,7 +32,7 @@
 * [Slides](https://github.com/arturjordao/Machine-Learning/blob/main/Slides/Clustering.pdf)
 
 ## Feature Selection
-* Coming soon
+* [Slides](https://github.com/arturjordao/Machine-Learning/blob/main/Slides/Feature%20Selection.pdf)
 
 # Problem Sets
 * I encourage instructors interested in the exercise solutions and problem set materials (i.e., solutions and autograding setup) to contact me using their institutional credentials.
